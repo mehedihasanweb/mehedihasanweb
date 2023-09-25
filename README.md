@@ -1,4 +1,4 @@
 ### Hi there 👋 I am Mehedi Hasan
 
 Web Developer
-- mehedi hasan
+- I'm currently learning full stack development
