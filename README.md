@@ -1,4 +1,4 @@
 ### Hi there 👋 I am Mehedi Hasan
 
-Web Developer
+  Front End Developer
 - I'm currently learning full stack development
