@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanweb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasanweb" alt="mehedihasanweb" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/mehedi hasan" target="blank"><img src="https://img.shields.io/twitter/follow/mehedi hasan?logo=twitter&style=for-the-badge" alt="mehedi hasan" /></a> </p>
 
@@ -32,5 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasanweb&show_icons=true&locale=en&layout=compact" alt="mehedihasanweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasanweb&show_icons=true&locale=en" alt="mehedihasanweb" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasanweb" alt="mehedihasanweb" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasanweb&" alt="mehedihasanweb" /></p>
