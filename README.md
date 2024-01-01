@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasanweb" alt="mehedihasanweb" /></a> </p>
