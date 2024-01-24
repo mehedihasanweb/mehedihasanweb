@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">I'm a Developer</h3>
 
 <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" />
 
@@ -12,8 +12,6 @@
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on **Github**
 
 - 💬 Ask me about **React**
 
