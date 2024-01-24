@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **mdmehedihasananik111@gmail.com**
 
