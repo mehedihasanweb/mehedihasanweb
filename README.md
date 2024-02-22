@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/mehedi hasan" target="blank"><img src="https://img.shields.io/twitter/follow/mehedi hasan?logo=twitter&style=for-the-badge" alt="mehedi hasan" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Front End Development**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **React Development**
 
 - 📫 How to reach me **mdmehedihasananik111@gmail.com**
 
