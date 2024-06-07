@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
-<h3 align="center">I'm a Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" />
 
