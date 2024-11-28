@@ -23,8 +23,17 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://i.ibb.co.com/YcLBz57/Linkedin.png">](https://www.linkedin.com/in/mehedi-hasan-dev111/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mehedihasan.anik.5220)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/mehedi_hasan)
-
+<p align="center">
+  <a  href="https://www.linkedin.com/in/mehedi-hasan-dev111/">
+<img height="75" src="https://i.ibb.co.com/YcLBz57/Linkedin.png">
+  </a>
+  <a href="https://twitter.com/mehedi_hasan">
+<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png">
+  </a>
+  <a href="https://www.facebook.com/mehedihasan.anik.5220">
+<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">
+  </a>
+</p>
 <br />
 
 ## :computer: Technologies that I know
